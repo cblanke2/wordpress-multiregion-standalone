@@ -155,7 +155,8 @@ actions:
               "wp_protect": "${settings.wp_protect}",
               "le-addon": "false",
               "cdn-addon": "false",
-              "isSingleDeploy": "false"
+              "isSingleDeploy": "false",
+              "php_engine": "php7.4"
             }
           });
         }
